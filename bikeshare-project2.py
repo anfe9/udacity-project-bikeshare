@@ -19,12 +19,7 @@ from datetime import timedelta
 # ##### newyork = 'new_york_city.csv'
 # ##### washington = 'washington.csv'
 
-# In[9]:
 
-
-# chicago= pd.read_csv("C:\\Users\\z622430\\Desktop\\Education\\AI Expert Program\\Project2\\chicago.csv")
-# newyork= pd.read_csv("C:\\Users\\z622430\\Desktop\\Education\\AI Expert Program\\Project2\\new_york_city.csv")
-# washington= pd.read_csv('C:\\Users\\z622430\\Desktop\\Education\\AI Expert Program\\Project2\\washington.csv')
 
 
 # In[10]:
